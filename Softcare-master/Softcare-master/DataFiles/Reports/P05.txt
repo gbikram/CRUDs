@@ -1,0 +1,21 @@
+GENERAL INFORMATION:
+Patient ID: P05
+Name: Timo KI Vu
+Date of Birth: Sun Jan 12 00:00:00 PST 2014
+Gender: F
+==================================================
+
+ACTIVITIES OF DAILY LIVING (ADL) DATA:
+Bed Mobility: Limited Assistance
+Transfer: Limited Assistance
+Eating/Drinking: Extensive Assistance
+Toileting: Extensive Assistance
+Personal Hygiene: Extensive Assistance
+Dressing: Limited Assistance
+Bathing: Total Assistance
+Walk In Room: No Record
+Walk In Hallway: Supervision
+Locomotion On Unit: Total Assistance
+Locomotion Off Unit: No Record
+Patient Mood: Combative
+==================================================

@@ -1,0 +1,21 @@
+GENERAL INFORMATION:
+Patient ID: P03
+Name: Jakob Thomas Kowal
+Date of Birth: Wed Nov 29 00:00:00 PST 2000
+Gender: M
+==================================================
+
+ACTIVITIES OF DAILY LIVING (ADL) DATA:
+Bed Mobility: Supervision
+Transfer: Total Assistance
+Eating/Drinking: Extensive Assistance
+Toileting: Supervision
+Personal Hygiene: No Record
+Dressing: No Record
+Bathing: No Record
+Walk In Room: No Record
+Walk In Hallway: Limited Assistance
+Locomotion On Unit: Extensive Assistance
+Locomotion Off Unit: No Record
+Patient Mood: Average
+==================================================

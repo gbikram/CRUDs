@@ -1,0 +1,21 @@
+GENERAL INFORMATION:
+Patient ID: P01
+Name: Bikramjeet Singh Ghura
+Date of Birth: Sat Jan 27 00:00:00 PST 1996
+Gender: M
+==================================================
+
+ACTIVITIES OF DAILY LIVING (ADL) DATA:
+Bed Mobility: Limited Assistance
+Transfer: Independent
+Eating/Drinking: Extensive Assistance
+Toileting: Independent
+Personal Hygiene: Independent
+Dressing: Extensive Assistance
+Bathing: Independent
+Walk In Room: Independent
+Walk In Hallway: Independent
+Locomotion On Unit: Supervision
+Locomotion Off Unit: Extensive Assistance
+Patient Mood: Average
+==================================================

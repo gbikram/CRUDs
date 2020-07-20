@@ -1,0 +1,21 @@
+GENERAL INFORMATION:
+Patient ID: P02
+Name: Anthony J Lobo
+Date of Birth: Sat Jan 13 00:00:00 PST 1990
+Gender: F
+==================================================
+
+ACTIVITIES OF DAILY LIVING (ADL) DATA:
+Bed Mobility: Supervision
+Transfer: Supervision
+Eating/Drinking: Total Assistance
+Toileting: Extensive Assistance
+Personal Hygiene: Limited Assistance
+Dressing: Limited Assistance
+Bathing: Supervision
+Walk In Room: Extensive Assistance
+Walk In Hallway: Limited Assistance
+Locomotion On Unit: Limited Assistance
+Locomotion Off Unit: Supervision
+Patient Mood: Good
+==================================================

@@ -1,0 +1,21 @@
+GENERAL INFORMATION:
+Patient ID: P07
+Name: Harru Ko Landson
+Date of Birth: Sun Feb 17 00:00:00 PST 1991
+Gender: M
+==================================================
+
+ACTIVITIES OF DAILY LIVING (ADL) DATA:
+Bed Mobility: Limited Assistance
+Transfer: No Record
+Eating/Drinking: Limited Assistance
+Toileting: No Record
+Personal Hygiene: Independent
+Dressing: Supervision
+Bathing: Extensive Assistance
+Walk In Room: No Record
+Walk In Hallway: No Record
+Locomotion On Unit: Extensive Assistance
+Locomotion Off Unit: No Record
+Patient Mood: Combative
+==================================================

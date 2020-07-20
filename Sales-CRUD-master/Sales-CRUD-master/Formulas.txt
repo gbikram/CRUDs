@@ -1,0 +1,17 @@
+Formula for MS Tubes
+
+Oc = outside diameter(mm), Wt = wall thickness(mm)
+For square steel tubes: Oc = 4*a
+For rectangular steel tubes: Oc = 2a + 2b
+
+Od=Mother Size = (Sum All Sides * 4.4)/14
+
+Kg/m = (Od - Wt) * Wt * 0.02465
+
+Total Weight = (Od - Wt) * Wt * 0.02465 * Length(m)
+
+MS Coil:
+7.85g/cm^3 x T(mm) x Width(m) x L(m) = kg
+
+
+

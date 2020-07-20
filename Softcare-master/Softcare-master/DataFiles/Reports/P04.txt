@@ -1,0 +1,21 @@
+GENERAL INFORMATION:
+Patient ID: P04
+Name: Sarthak Rustom Rastogi
+Date of Birth: Sat Mar 24 00:00:00 PST 1990
+Gender: M
+==================================================
+
+ACTIVITIES OF DAILY LIVING (ADL) DATA:
+Bed Mobility: Limited Assistance
+Transfer: No Record
+Eating/Drinking: No Record
+Toileting: Extensive Assistance
+Personal Hygiene: No Record
+Dressing: No Record
+Bathing: Extensive Assistance
+Walk In Room: No Record
+Walk In Hallway: No Record
+Locomotion On Unit: No Record
+Locomotion Off Unit: No Record
+Patient Mood: No Record
+==================================================

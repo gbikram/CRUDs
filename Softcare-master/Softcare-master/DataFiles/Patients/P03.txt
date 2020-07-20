@@ -1,0 +1,12 @@
+P03
+Jakob
+Thomas
+Kowal
+Wed Nov 29 00:00:00 PST 2000
+WA
+M
+1818 Elm St
+Mac
+20
+Seattle
+99891

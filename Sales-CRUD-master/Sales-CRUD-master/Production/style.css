@@ -1,0 +1,61 @@
+#login-form {
+	margin-top: 10%;
+	width: 30%;
+	position: absolute;
+	left: 35%;
+	padding-top: 18px;
+	background-color: #f7f7f7;
+	border-radius: 13px;
+}
+
+.formHead {
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+#custRad {
+	font-size: 1rem;
+}
+
+#newCustForm {
+	display: none;
+}
+
+.form-section {
+	font-size: 20px;
+}
+
+#full-order-form {
+	width: 50%;
+	margin-left: 30%;
+	background-color: #f7f7f7;
+	padding: 12px;
+	border-radius: 14px;
+}
+
+#productDetails {
+	display: none;
+}
+
+#newOrderForm, #updateOrderForm {
+	width: 58%;
+	margin-left: 20%;
+	background-color: #f7f7f7;
+	margin-top: 80px;
+	padding: 20px;
+	border-radius: 20px;
+}
+
+#app-logout {
+	position: absolute;
+	right: 40px;
+}
+
+#app-head {
+	text-align: center;
+	margin-top: 3%;
+}
+
+#order-tab {
+	margin-top: 20px;
+}

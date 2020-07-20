@@ -1,0 +1,21 @@
+GENERAL INFORMATION:
+Patient ID: P10
+Name: Tegveer Singh Ghura
+Date of Birth: Mon Dec 27 00:00:00 PST 1999
+Gender: M
+==================================================
+
+ACTIVITIES OF DAILY LIVING (ADL) DATA:
+Bed Mobility: null
+Transfer: null
+Eating/Drinking: null
+Toileting: null
+Personal Hygiene: null
+Dressing: null
+Bathing: null
+Walk In Room: null
+Walk In Hallway: null
+Locomotion On Unit: null
+Locomotion Off Unit: null
+Patient Mood: null
+==================================================
